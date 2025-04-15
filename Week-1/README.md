@@ -1,5 +1,3 @@
-from pathlib import Path
-
 # Week 1 - Rangkuman dan Aktivitas
 
 ## 🔍 Rangkuman Materi
@@ -64,15 +62,3 @@ Frontend dan backend berkomunikasi melalui API, biasanya dengan metode REST meng
 ![Bukti Kegiatan](Week-1/screenshoot/Pertemuan 1_Senin, 14 April 2025.png)
 
 ---
-
-## 📂 Link Tambahan (jika ada)
-
-- Google Drive: [https://drive.google.com/...](https://drive.google.com/...)
-  """
-
-# Simpan ke file markdown
-
-output_path = Path("/mnt/data/week1_rangkuman.md")
-output_path.write_text(markdown_content, encoding='utf-8')
-
-output_path.name
