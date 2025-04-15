@@ -14,6 +14,7 @@ Frontend adalah bagian dari aplikasi yang langsung dilihat dan digunakan oleh pe
 
 **Contoh:**
 ![Screenshot 2025-04-15 083444](https://github.com/user-attachments/assets/fe1b050d-0266-4917-999e-6b399be57c51)
+
 ![Screenshot 2025-04-15 083528](https://github.com/user-attachments/assets/6d4b6c5c-3f6b-49b8-b49b-48056fd4d30b)
 
 - **Fokus utama**: Pengalaman pengguna (UX/UI).
