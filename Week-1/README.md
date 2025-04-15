@@ -44,6 +44,7 @@ Contoh tugas backend adalah menyimpan data pengguna, memvalidasi input dari peng
 
 ### **Bagaimana Keduanya Bekerja Bersama?**
 ![Screenshot 2025-04-15 084717](https://github.com/user-attachments/assets/5a464ff8-93a0-4af3-9c11-03146d3e0047)
+
 Komunikasi dilakukan dengan menggunakan API REST. Di mana Frontend mengirim permintaan ke backend melalui HTTP/HTTPS dan Backend akan menerima dan memproses permintaan dari Frontend, setelah itu Frontend akan menampilkan data yang diterima dari Backend dan selanjutnya Backend mengambil data dari database dan mengembalikannya ke frontend.
 
 ---
