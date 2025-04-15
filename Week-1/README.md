@@ -53,6 +53,7 @@ Komunikasi dilakukan dengan menggunakan API REST. Di mana Frontend mengirim perm
 
 **Pertemuan 1: Senin, 14 April 2025**
 
-![Bukti Kegiatan](Week-1/screenshoot/Pertemuan 1_Senin, 14 April 2025.png)
+![Screenshot (2756)](https://github.com/user-attachments/assets/dd034d3c-f24d-4571-87df-55987ebf7f6e)
+
 
 ---
