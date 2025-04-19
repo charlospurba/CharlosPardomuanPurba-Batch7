@@ -113,7 +113,7 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
   ```bash
   git commit -m "Message commit"  --> Untuk menyimpan perubahan pada code yang di kembangkan.
   ```
-![image](https://github.com/user-attachments/assets/72d69a08-17c7-4765-80c8-ae245e58b6be)
+  ![image](https://github.com/user-attachments/assets/72d69a08-17c7-4765-80c8-ae245e58b6be)
 
 - Operasi Dasar : Clone & Pull
 
@@ -130,6 +130,8 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
   ```bash
   git pull origin nama_branch  --> Untuk mengambil perubahan terbaru
   ```
+  ![image](https://github.com/user-attachments/assets/cc64d549-6008-449f-8290-b22fa4a49a45)
+
 
 #### Part 2
 
