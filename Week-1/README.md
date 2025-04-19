@@ -193,4 +193,4 @@ dhjddk
 
 Week-1\screenshoot\Pertemuan 2_Selasa, 15 April 2025.png
 
-![image](Week-1\screenshoot\Pertemuan 2_Selasa, 15 April 2025.png)
+![image](C:\Users\asus\Documents\CharlosPardomuanPurba-Batch7\Week-1\screenshoot\Pull Request.png)
