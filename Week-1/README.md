@@ -188,9 +188,3 @@ Langkah-langkah melakukan Pull Request di Guthub:
 **Pertemuan 4: Kamis, 17 April 2025**
 
 ![image](https://github.com/user-attachments/assets/2c6a1f8a-f8ec-458a-8d8a-8152a4c1fc3f)
-
-dhjddk
-
-Week-1\screenshoot\Pertemuan 2_Selasa, 15 April 2025.png
-
-![image](C:\Users\asus\Documents\CharlosPardomuanPurba-Batch7\Week-1\screenshoot\Pull Request.png)
