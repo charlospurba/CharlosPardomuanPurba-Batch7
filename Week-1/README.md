@@ -2,6 +2,8 @@
 
 ## 🔍 Rangkuman Materi
 
+### Perkenalan dan Setup Awal
+
 ### Pertemuan 1: Backend dan Frontend
 
 #### Apa itu Frontend dan Backend?
@@ -10,7 +12,7 @@
 
 ### **1. Frontend**
 
-Frontend adalah bagian dari aplikasi yang langsung dilihat dan digunakan oleh pengguna. Tugas utama frontend adalah membuat antarmuka pengguna (user interface) yang menarik, responsif, dan mudah digunakan. Frontend juga bertanggung jawab dalam memastikan pengalaman pengguna (user experience/UX) berjalan dengan optimal. Selain itu, frontend juga menjembatani komunikasi dengan backend melalui API, agar data yang dibutuhkan pengguna bisa ditampilkan dengan tepat.
+Frontend adalah tampilan dari sebuah aplikasi yang bisa dilihat dan digunakan oleh user. Tugas utama frontend adalah membuat antarmuka pengguna (user interface) yang menarik, responsif, dan mudah digunakan. Frontend juga bertanggung jawab dalam memastikan pengalaman pengguna (user experience/UX) berjalan dengan optimal. Selain itu, frontend juga menjembatani komunikasi dengan backend melalui API, agar data yang dibutuhkan pengguna bisa ditampilkan dengan tepat.
 
 **Contoh:**
 ![Screenshot 2025-04-15 083444](https://github.com/user-attachments/assets/fe1b050d-0266-4917-999e-6b399be57c51)
@@ -23,8 +25,6 @@ Frontend adalah bagian dari aplikasi yang langsung dilihat dan digunakan oleh pe
   - **CSS**: Styling dan tata letak.
   - **JavaScript**: Interaktivitas dan logika di sisi klien.
 - **Framework populer**: React, Angular, Vue (mempermudah pengembangan UI modern dan dinamis).
-
----
 
 ### **2. Backend**
 
@@ -43,11 +43,74 @@ Contoh tugas backend adalah menyimpan data pengguna, memvalidasi input dari peng
 ---
 
 ### **Bagaimana Keduanya Bekerja Bersama?**
+
 ![Screenshot 2025-04-15 084717](https://github.com/user-attachments/assets/5a464ff8-93a0-4af3-9c11-03146d3e0047)
 
 Komunikasi dilakukan dengan menggunakan API REST. Di mana Frontend mengirim permintaan ke backend melalui HTTP/HTTPS dan Backend akan menerima dan memproses permintaan dari Frontend, setelah itu Frontend akan menampilkan data yang diterima dari Backend dan selanjutnya Backend mengambil data dari database dan mengembalikannya ke frontend.
 
 ---
+
+### Pertemuan 2: Agile Scrum
+
+Berikut beberapa tahapan pada Agile Scrum :
+
+#### 1. Backlog
+
+Daftar pekerjaan yang harus diselesaikan dalam project yang akan dibangun, hal ini bisa sepertu fitur, bug yang perlu di perbaiki, dan lain-lain.
+
+#### 2. Sprint Planning
+
+Daftar tugas atau kegiatan yang akan kita lakukan dalam jangan waktu yang sudah ditentukan. Misalnya dalam waktu 1 minggu atau 2 minggu. Di mana tugas yang dikerjakan di sprint planning ini diambil dari backlog yang sudah dibuat sebelumnya.
+
+#### 3. Daily Stand Up
+
+Kegiatan atau meeting yang dilakukan oleh team selama kurang lebih 15 menit di setiap harinya untuk melaporkan hasil pekerjaan di hari sebelumnya dan yang akan dikerjakan hari ini atau pun kendala yang sedang dihadapi. Hal ini bertujuan untuk meningkatkan kinerja team atau pun kerja sama team.
+
+#### 4. Sprint Review
+
+Kegiatan atau meeting yang dilakukan oleh team dan product owner yang dilakukan satu minggu sekali, biasanya diakhir sprint yang berlangsung. Hal ini bertujuan untuk menunjukkan hasil kerja team dalam satu sprint kepada Scrum master ataupun kepada product owner untuk mendapatkan review atau masukan.
+
+#### 5. Sprint Retrospective
+
+Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka rasakan secara individual kepada seluruh anggota team mengenai apa saja yang sudah dilalui dalam satu sprint. Misalnya mengenai apa yang sudah berjalan dengan baik, apa yang belum berjalan dengan baik, dan apa yang harus diperbaiki dari kerja sama tim.
+
+---
+
+#### Tools Scrum management:
+
+- Jira
+- ClickUp
+- Notion
+- Dll
+
+---
+
+### Pertemuan 3 & 4: Source Code Management
+
+#### Part 1
+
+- Pengertian Git, Branch, dan Commit
+
+  - Git adalah alat yang digunakan untuk mengelola atau melacak versi perubahan kode pada project yang sedang dikerjakan.
+
+  ```bash
+  git --version --> Untuk mengecek version dari git yang kita install ataupun mengecek apakah git tersedia atau tidak
+  git init --> untuk membuat repository kedalam file atau directory lokal
+  ```
+
+  - Branch adalah versi terpisah dari repositori utama yang memungkinkan Anda mengerjakan proyek tanpa mengganggu cabang utama. Cabang Git dapat digunakan untuk mengembangkan fitur, memperbaiki bug, atau bereksperimen.
+
+  ```bash
+  git branch nama_branch  --> Untuk membuat branch baru
+  git checkout nama_branch --> Untuk melakukan perpindahan branch
+  git merge target_branch --> Untuk menggabungkan atau merge 2 branch
+  ```
+
+  - Commit adalah Penyimpan dari code yang sudah kita ubah atau perubahan dari kode project.
+
+```bash
+  git commit -m "Message commit"  --> Untuk menyimpan perubahan pada code yang di kembangkan.
+```
 
 ## 📸 Bukti Kegiatan
 
@@ -55,5 +118,12 @@ Komunikasi dilakukan dengan menggunakan API REST. Di mana Frontend mengirim perm
 
 ![Screenshot (2756)](https://github.com/user-attachments/assets/dd034d3c-f24d-4571-87df-55987ebf7f6e)
 
-
 ---
+
+```
+
+```
+
+```
+
+```
