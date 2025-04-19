@@ -106,12 +106,14 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
   git checkout nama_branch --> Untuk melakukan perpindahan branch
   git merge target_branch --> Untuk menggabungkan atau merge 2 branch
   ```
+  ![image](https://github.com/user-attachments/assets/6a0011e2-8bf5-4f82-a5af-c7eb66ff8a5f)
 
   - Commit adalah Penyimpan dari code yang sudah kita ubah atau perubahan dari kode project.
 
   ```bash
   git commit -m "Message commit"  --> Untuk menyimpan perubahan pada code yang di kembangkan.
   ```
+![image](https://github.com/user-attachments/assets/72d69a08-17c7-4765-80c8-ae245e58b6be)
 
 - Operasi Dasar : Clone & Pull
 
@@ -120,6 +122,8 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
   ```bash
   git clone url_repository  --> Untuk menyimpan repo ke lokal
   ```
+  
+  ![image](https://github.com/user-attachments/assets/4e442700-7a78-4341-ac33-95a30195959a)
 
   - Pull adalah mengambil setiap perubahan yang terbaru dari remote project yang sedang dikerjakan
 
@@ -136,12 +140,14 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
   ```bash
   git push -u origin nama_branch  --> Untuk mengunggah perubahan code
   ```
+  ![image](https://github.com/user-attachments/assets/9d61db73-e33f-48c7-bfdc-e217b1f38998)
 
   - Merge adalah teknik penggabungan branch ke branch lain.
 
   ```bash
   git merge target_branch --> Untuk menggabungkan atau merge 2 branch
   ```
+  ![image](https://github.com/user-attachments/assets/fc9c2c12-dbb0-4ec2-8b37-4b60d58cbcd2)
 
 - Pull Request
 
