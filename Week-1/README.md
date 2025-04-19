@@ -192,3 +192,4 @@ Langkah-langkah melakukan Pull Request di Guthub:
 dhjddk
 
 Week-1\screenshoot\Pertemuan 2_Selasa, 15 April 2025.png
+![Pertemuan 2](Week-1\screenshoot\Pertemuan 2_Selasa, 15 April 2025.png)
