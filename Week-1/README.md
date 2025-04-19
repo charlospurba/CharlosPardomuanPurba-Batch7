@@ -106,6 +106,7 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
   git checkout nama_branch --> Untuk melakukan perpindahan branch
   git merge target_branch --> Untuk menggabungkan atau merge 2 branch
   ```
+
   ![image](https://github.com/user-attachments/assets/6a0011e2-8bf5-4f82-a5af-c7eb66ff8a5f)
 
   - Commit adalah Penyimpan dari code yang sudah kita ubah atau perubahan dari kode project.
@@ -113,6 +114,7 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
   ```bash
   git commit -m "Message commit"  --> Untuk menyimpan perubahan pada code yang di kembangkan.
   ```
+
   ![image](https://github.com/user-attachments/assets/72d69a08-17c7-4765-80c8-ae245e58b6be)
 
 - Operasi Dasar : Clone & Pull
@@ -122,7 +124,7 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
   ```bash
   git clone url_repository  --> Untuk menyimpan repo ke lokal
   ```
-  
+
   ![image](https://github.com/user-attachments/assets/4e442700-7a78-4341-ac33-95a30195959a)
 
   - Pull adalah mengambil setiap perubahan yang terbaru dari remote project yang sedang dikerjakan
@@ -130,8 +132,8 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
   ```bash
   git pull origin nama_branch  --> Untuk mengambil perubahan terbaru
   ```
-  ![image](https://github.com/user-attachments/assets/cc64d549-6008-449f-8290-b22fa4a49a45)
 
+  ![image](https://github.com/user-attachments/assets/cc64d549-6008-449f-8290-b22fa4a49a45)
 
 #### Part 2
 
@@ -142,6 +144,7 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
   ```bash
   git push -u origin nama_branch  --> Untuk mengunggah perubahan code
   ```
+
   ![image](https://github.com/user-attachments/assets/9d61db73-e33f-48c7-bfdc-e217b1f38998)
 
   - Merge adalah teknik penggabungan branch ke branch lain.
@@ -149,6 +152,7 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
   ```bash
   git merge target_branch --> Untuk menggabungkan atau merge 2 branch
   ```
+
   ![image](https://github.com/user-attachments/assets/fc9c2c12-dbb0-4ec2-8b37-4b60d58cbcd2)
 
 - Pull Request
@@ -158,12 +162,13 @@ Pull Request adalah permintaan untuk meninjau dan menggabungkan sebuah branch ke
 ![Screenshot 2025-04-19 163450](https://github.com/user-attachments/assets/8d48f8be-3903-4541-8391-3f3c8228cb3b)
 
 Langkah-langkah melakukan Pull Request di Guthub:
+
 - Buka repository di GitHub.
 - Kita akan melihat notifikasi untuk branch baru yang di-push. Klik Compare & pull request.
 - Isi detail PR:
-   - Judul: Deskripsi singkat perubahan.
-   - Komentar: Jelaskan apa yang diubah dan mengapa.
-   - Pilih branch tujuan (biasanya main atau master).
+  - Judul: Deskripsi singkat perubahan.
+  - Komentar: Jelaskan apa yang diubah dan mengapa.
+  - Pilih branch tujuan (biasanya main atau master).
 - Klik Create pull request.
 
 ## 📸 Bukti Kegiatan
@@ -183,3 +188,7 @@ Langkah-langkah melakukan Pull Request di Guthub:
 **Pertemuan 4: Kamis, 17 April 2025**
 
 ![image](https://github.com/user-attachments/assets/2c6a1f8a-f8ec-458a-8d8a-8152a4c1fc3f)
+
+dhjddk
+
+Week-1\screenshoot\Pertemuan 2_Selasa, 15 April 2025.png
