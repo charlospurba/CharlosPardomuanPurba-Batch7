@@ -81,6 +81,7 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
 - Jira
 - ClickUp
 - Notion
+- Trello
 - Dll
 
 ---
@@ -148,7 +149,14 @@ Pull Request adalah permintaan untuk meninjau dan menggabungkan sebuah branch ke
 
 ![Screenshot 2025-04-19 163450](https://github.com/user-attachments/assets/8d48f8be-3903-4541-8391-3f3c8228cb3b)
 
-
+Langkah-langkah melakukan Pull Request di Guthub:
+- Buka repository di GitHub.
+- Kita akan melihat notifikasi untuk branch baru yang di-push. Klik Compare & pull request.
+- Isi detail PR:
+   - Judul: Deskripsi singkat perubahan.
+   - Komentar: Jelaskan apa yang diubah dan mengapa.
+   - Pilih branch tujuan (biasanya main atau master).
+- Klik Create pull request.
 
 ## 📸 Bukti Kegiatan
 
@@ -167,4 +175,3 @@ Pull Request adalah permintaan untuk meninjau dan menggabungkan sebuah branch ke
 **Pertemuan 4: Kamis, 17 April 2025**
 
 ![image](https://github.com/user-attachments/assets/2c6a1f8a-f8ec-458a-8d8a-8152a4c1fc3f)
-
