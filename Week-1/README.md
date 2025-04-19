@@ -146,22 +146,25 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
 
 Pull Request adalah permintaan untuk meninjau dan menggabungkan sebuah branch ke main branch. Hal ini dilakukan untuk memastikan kualitas kode melalui review sebelum melakukan penggabungan ke main.
 
+![Screenshot 2025-04-19 163450](https://github.com/user-attachments/assets/8d48f8be-3903-4541-8391-3f3c8228cb3b)
+
+
+
 ## 📸 Bukti Kegiatan
 
 **Pertemuan 1: Senin, 14 April 2025**
 
 ![Screenshot (2756)](https://github.com/user-attachments/assets/dd034d3c-f24d-4571-87df-55987ebf7f6e)
 
----
+**Pertemuan 2: Selasa, 15 April 2025**
 
-```
+![image](https://github.com/user-attachments/assets/40735ca2-90c9-45cd-a9f5-9dad917f5c49)
 
-```
+**Pertemuan 3: Rabu, 16 April 2025**
 
-```
+![image](https://github.com/user-attachments/assets/23622447-da75-4fe5-80ab-0c9378ca937d)
 
-```
+**Pertemuan 4: Kamis, 17 April 2025**
 
-```
+![image](https://github.com/user-attachments/assets/2c6a1f8a-f8ec-458a-8d8a-8152a4c1fc3f)
 
-```
