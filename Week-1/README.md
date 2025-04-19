@@ -108,9 +108,43 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
 
   - Commit adalah Penyimpan dari code yang sudah kita ubah atau perubahan dari kode project.
 
-```bash
+  ```bash
   git commit -m "Message commit"  --> Untuk menyimpan perubahan pada code yang di kembangkan.
-```
+  ```
+
+- Operasi Dasar : Clone & Pull
+
+  - Clone adalah mengunduh repository dari remote ke lokal kita.
+
+  ```bash
+  git clone url_repository  --> Untuk menyimpan repo ke lokal
+  ```
+
+  - Pull adalah mengambil setiap perubahan yang terbaru dari remote project yang sedang dikerjakan
+
+  ```bash
+  git pull origin nama_branch  --> Untuk mengambil perubahan terbaru
+  ```
+
+#### Part 2
+
+- Operasi Lanjutan : Push & Merge
+
+  - Push adalah mengunggah perubahan code project pada lokal kita ke remote agar bisa dilihat oleh orang lain.
+
+  ```bash
+  git push -u origin nama_branch  --> Untuk mengunggah perubahan code
+  ```
+
+  - Merge adalah teknik penggabungan branch ke branch lain.
+
+  ```bash
+  git merge target_branch --> Untuk menggabungkan atau merge 2 branch
+  ```
+
+- Pull Request
+
+Pull Request adalah permintaan untuk meninjau dan menggabungkan sebuah branch ke main branch. Hal ini dilakukan untuk memastikan kualitas kode melalui review sebelum melakukan penggabungan ke main.
 
 ## 📸 Bukti Kegiatan
 
@@ -119,6 +153,10 @@ Kegiatan atau meeting yang dilakukan oleh team untuk menyatakan apa yang mereka 
 ![Screenshot (2756)](https://github.com/user-attachments/assets/dd034d3c-f24d-4571-87df-55987ebf7f6e)
 
 ---
+
+```
+
+```
 
 ```
 
