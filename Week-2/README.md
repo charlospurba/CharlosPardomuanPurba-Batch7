@@ -23,31 +23,37 @@ Tulis Pseudocode (alur logika non-kode) yang mencakup:
 
 **Penyelesaian**
 
-![alt text](image.png) 
+![alt text](image.png)
 
 Penulisan Pseudocode :
 
-'''bash
-ALGORITMA Temperature
+```bash
+ ALGORITMA Temperature
 
 MASUKAN TemperatureCelsius (bilangan real)
+
 DEKLARASI toFahrenheit, toReamur, toKelvin (bilangan real)
 
 // 1. Konversi Celsius ke Fahrenheit
+
 toFahrenheit ← (TemperatureCelsius \* 9/5) + 32
 
 // 2. Konversi Celsius ke Reamur
+
 toReamur ← TemperatureCelsius \* 4/5
 
 // 3. Konversi Celsius ke Kelvin
+
 toKelvin ← TemperatureCelsius + 273.15
 
 KELUARAN "Suhu dalam Fahrenheit: ", toFahrenheit
+
 KELUARAN "Suhu dalam Reamur: ", toReamur
+
 KELUARAN "Suhu dalam Kelvin: ", toKelvin
 
 SELESAI
-'''
+```
 
 # Topics 2: OOP (Object Oriented Programing)
 
