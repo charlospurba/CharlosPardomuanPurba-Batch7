@@ -23,7 +23,7 @@ Tulis Pseudocode (alur logika non-kode) yang mencakup:
 
 **Penyelesaian**
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/9d65e02a-bb78-41a9-bae7-27f1adea057e)
 
 Penulisan Pseudocode :
 
@@ -94,7 +94,7 @@ Contoh: Properti warna pada class Mobil menyimpan nilai "Merah".
 
 Contoh representasi OOP dalam kehidupan sehari-hari :
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/a05a3e4c-8662-4449-967d-50f39b4ead34)
 
 ## OOP General Concept for Temperature Converter
 
