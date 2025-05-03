@@ -39,3 +39,4 @@ javac com\example\User.java com\example\Donasi.java com\example\Filantropi.java 
 ```bash
 java com.example.DonasiApp
 ```
+![image](https://github.com/user-attachments/assets/d906b3f6-5ad0-4d5e-8981-1e5612201d8f)
