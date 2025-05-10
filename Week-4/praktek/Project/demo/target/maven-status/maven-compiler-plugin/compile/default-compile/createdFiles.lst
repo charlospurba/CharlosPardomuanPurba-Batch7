@@ -1,0 +1,3 @@
+com\example\demo\service\ExpenseService.class
+com\example\demo\controller\ExpenseController.class
+com\example\demo\model\Expense.class
