@@ -26,12 +26,11 @@ public class DonasiApp {
 
             if (!scanner.hasNextInt()) {
                 System.out.println("Masukkan harus angka (1-3)!");
-                scanner.next(); // Bersihkan input salah
+                scanner.next();
                 continue;
             }
             int pilihan = scanner.nextInt();
-            scanner.nextLine(); // Konsumsi newline
-
+            scanner.nextLine(); 
             if (pilihan == 1) {
                 System.out.print("Masukkan filantropi (A, B, C) atau hardcode (contoh: 'John,100'): ");
                 String input = scanner.nextLine();
@@ -40,7 +39,7 @@ public class DonasiApp {
                         String[] bagian = input.split(",");
                         String donatur = bagian[0].trim();
                         double jumlah = Double.parseDouble(bagian[1].trim());
-                        Filantropi f = filantropiList.get(0); // Default ke pertama untuk hardcode
+                        Filantropi f = filantropiList.get(0); 
                         f.tambahDonasi(donatur, jumlah);
                         System.out.println("Donasi berhasil ditambahkan!");
                     } catch (NumberFormatException e) {
@@ -60,12 +59,12 @@ public class DonasiApp {
                         System.out.print("Masukkan jumlah: ");
                         if (scanner.hasNextDouble()) {
                             double jumlah = scanner.nextDouble();
-                            scanner.nextLine(); // Konsumsi newline
+                            scanner.nextLine(); 
                             f.tambahDonasi(donatur, jumlah);
                             System.out.println("Donasi berhasil ditambahkan!");
                         } else {
                             System.out.println("Jumlah harus berupa angka!");
-                            scanner.next(); // Bersihkan input salah
+                            scanner.next();
                         }
                     } else {
                         System.out.println("Filantropi tidak ditemukan!");
