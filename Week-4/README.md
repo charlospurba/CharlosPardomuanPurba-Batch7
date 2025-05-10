@@ -40,7 +40,7 @@ mvn spring-boot:run
 Secara default, aplikasi akan berjalan di:
 
 ```
-http://localhost:8081
+http://localhost:8080
 ```
 
 > 🔴 Jika port 8080 sudah digunakan, kamu bisa ubah ke port lain di file:
@@ -108,7 +108,7 @@ server.port=8081
 ## 🧪 Testing dengan curl
 
 ```bash
-curl -X POST http://localhost:8081/expenses \
+curl -X POST http://localhost:8080/expenses \
      -H "Content-Type: application/json" \
      -d "{\"name\":\"Makan Siang\",\"amount\":20000}"
 ```
